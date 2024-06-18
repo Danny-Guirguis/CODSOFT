@@ -103,10 +103,12 @@ void assignMove(string grid[5][5], bool turn){
             else{
                 if (turn){
                     grid[0][0] == " X ";
+                    void checkPosition(grid,turn);
                     break;
                 }
                 else{
                     grid[0][0] == " O ";
+                    void checkPosition(grid,turn);
                     break;
                 }
             }
@@ -118,10 +120,12 @@ void assignMove(string grid[5][5], bool turn){
             else{
                 if (turn){
                     grid[0][0] == " X ";
+                    void checkPosition(grid,turn);
                     break;
                 }
                 else{
                     grid[0][0] == " O ";
+                    void checkPosition(grid,turn);
                     break;
                 }
             }
@@ -133,10 +137,12 @@ void assignMove(string grid[5][5], bool turn){
             else{
                 if (turn){
                     grid[0][0] == " X ";
+                    void checkPosition(grid,turn);
                     break;
                 }
                 else{
                     grid[0][0] == " O ";
+                    void checkPosition(grid,turn);
                     break;
                 }
             }
@@ -148,10 +154,12 @@ void assignMove(string grid[5][5], bool turn){
             else{
                 if (turn){
                     grid[0][0] == " X ";
+                    void checkPosition(grid,turn);
                     break;
                 }
                 else{
                     grid[0][0] == " O ";
+                    void checkPosition(grid,turn);
                     break;
                 }
             }
@@ -163,10 +171,12 @@ void assignMove(string grid[5][5], bool turn){
             else{
                 if (turn){
                     grid[0][0] == " X ";
+                    void checkPosition(grid,turn);
                     break;
                 }
                 else{
                     grid[0][0] == " O ";
+                    void checkPosition(grid,turn);
                     break;
                 }
             }
@@ -178,10 +188,12 @@ void assignMove(string grid[5][5], bool turn){
             else{
                 if (turn){
                     grid[0][0] == " X ";
+                    void checkPosition(grid,turn);
                     break;
                 }
                 else{
                     grid[0][0] == " O ";
+                    void checkPosition(grid,turn);
                     break;
                 }
             }
@@ -193,10 +205,12 @@ void assignMove(string grid[5][5], bool turn){
             else{
                 if (turn){
                     grid[0][0] == " X ";
+                    void checkPosition(grid,turn);
                     break;
                 }
                 else{
                     grid[0][0] == " O ";
+                    void checkPosition(grid,turn);
                     break;
                 }
             }
@@ -208,10 +222,12 @@ void assignMove(string grid[5][5], bool turn){
             else{
                 if (turn){
                     grid[0][0] == " X ";
+                    void checkPosition(grid,turn);
                     break;
                 }
                 else{
                     grid[0][0] == " O ";
+                    void checkPosition(grid,turn);
                     break;
                 }
             }
@@ -223,10 +239,12 @@ void assignMove(string grid[5][5], bool turn){
             else{
                 if (turn){
                     grid[0][0] == " X ";
+                    void checkPosition(grid,turn);
                     break;
                 }
                 else{
                     grid[0][0] == " O ";
+                    void checkPosition(grid,turn);
                     break;
                 }
             }
