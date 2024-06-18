@@ -83,7 +83,9 @@ void checkPosition(string grid[5][5], bool &turn){
         if (turn){
             cout << X << " Wins";
         }
-        else
+        else{
+            cout << O << " Wins";
+        }
     }
 }
 
@@ -228,6 +230,9 @@ void assignMove(string grid[5][5], bool turn){
                     break;
                 }
             }
+        default:
+            cout << "Invalid move, choose another move";
+            return assignMove(grid,turn);
     }
 }
 
