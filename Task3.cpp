@@ -13,7 +13,6 @@ void playAgain(string &X, string &O , bool &turn, bool &firstToPlay);
         }
         cout << "\n";
     }*/
-
 /*if   ((grid[0][0] == grid[0][2] && grid[0][0] == grid[0][4]) ||
         (grid[0][0] == grid[2][0] && grid[0][0] == grid[4][0]) ||
         (grid[4][0] == grid[4][2] && grid[4][0] == grid[4][4]) ||
